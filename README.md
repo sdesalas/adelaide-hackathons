@@ -7,4 +7,4 @@ To add a hackathon to this list, please [submit an issue](https://github.com/sde
 | --------------- | -------------------------------------------------------- | --------------------- |
 | 25-26 May | [ActInSpace](https://icc.unisa.edu.au/actinspace/) | WorldWide Hackathon. UniSA, City West. Free.  | 
 | 25-27 May | [Techfugees Adelaide](https://www.eventbrite.com.au/e/techfugees-adelaide-hackathon-2018-tickets-42418997363?aff=es2) | Torrens Uni, Wakefield. FREE.  | 
-| 7-9 Sep| [GovHack Adelaide](https://www.govhack.org/locations/adelaide/) | Open data. Australia-wide. 3K+ participants. Location TBC. FREE | 
+| 7-9 Sep| [GovHack Adelaide](https://www.govhack.org/locations/adelaide/) | Open data. Australia-wide. 3K+ participants. UniSA CityWest. FREE | 
